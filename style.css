@@ -749,7 +749,7 @@ img{
 	height: 50px;
 	border: 1px solid #c0392b;
 	background-color: #c0392b;
-	color: #000;
+	/* color: #000; */
 	margin: 20px 0;
 	font-weight: bold;
 }
